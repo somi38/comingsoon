@@ -74,6 +74,10 @@ body {
   margin-bottom: 10px;
 }
 
+.masthead-brand > img {
+  width: 15%;
+}
+
 .nav-masthead {
   text-align: center;
   display: block;
@@ -85,10 +89,10 @@ body {
 
 @media (min-width: 768px) {
   .masthead-brand {
-    float: left;
+    /*float: left;*/
   }
   .nav-masthead {
-    float: right;
+    /*float: right;*/
   }
 }
 
